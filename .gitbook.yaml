@@ -5,4 +5,5 @@ root: ./
     summary: SUMMARY.md​
 
 redirects:  
-    previous/page: new-folder/page.md
+    cat-long: cat-void/readme.md
+    
