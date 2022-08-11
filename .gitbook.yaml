@@ -5,4 +5,5 @@ root: ./docs/
     summary: SUMMARY.md​
 
 redirects:  
-    cat-long: cat-void
+    cat-long: cat-void/readme.md
+    
